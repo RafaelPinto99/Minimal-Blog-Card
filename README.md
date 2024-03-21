@@ -9,7 +9,7 @@ This repository contains code for a minimal blog card. The blog card is a simple
 
 ## Preview
 
-![Blog Card Preview](previewBlogCard.png)
+![previewBlogCard](https://github.com/RafaelPinto99/Minimal-Blog-Card/assets/33991446/242a8e8a-d84b-4098-8822-67658a3aee21)
 
 ## Usage
 
